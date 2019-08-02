@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2019/08/02/C++%20%20%E5%9F%BA%E7%A1%80/%E7%94%A8freopen%E5%87%BD%E6%95%B0%E6%93%8D%E4%BD%9C%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E6%B5%81%E5%92%8C%E8%AF%BB%E5%86%99%E6%96%87%E4%BB%B6/</loc>
+    
+    <lastmod>2019-08-02T13:21:38.354Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2018/08/29/C++%20%20%E5%9F%BA%E7%A1%80/%E9%9A%8F%E6%9C%BA%E6%95%B0/</loc>
+    
+    <lastmod>2019-08-02T13:11:35.752Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/06/26/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93/Log4cpp%E7%9A%84%E9%85%8D%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2019-08-02T12:18:53.153Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/08/02/C++%20%20%E5%9F%BA%E7%A1%80/%E6%95%B0%E7%BB%84%E5%9C%A8%E5%87%BD%E6%95%B0%E4%B8%AD%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2019-08-02T12:17:44.867Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2018/06/23/MySQL/MySQL%E5%8E%9F%E7%94%9FC++%E7%9A%84API%E6%8E%A5%E5%8F%A3/</loc>
     
     <lastmod>2019-07-31T13:26:42.897Z</lastmod>
@@ -222,13 +250,6 @@
     <loc>https://charon-cheung.github.io/2019/04/20/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E4%BD%BF%E7%94%A8ROS%20Service(%E4%BA%8C)/</loc>
     
     <lastmod>2019-07-17T12:41:55.811Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/06/26/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93/Log4cpp%E7%9A%84%E9%85%8D%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8/</loc>
-    
-    <lastmod>2019-07-16T11:28:01.120Z</lastmod>
     
   </url>
   
@@ -1090,13 +1111,6 @@
     <loc>https://charon-cheung.github.io/2018/08/03/C++%20%20%E5%9F%BA%E7%A1%80/%E7%BB%93%E6%9E%84%E4%BD%93%E4%B8%8E%E7%B1%BB%E7%9A%84%E5%AD%97%E8%8A%82%E5%AF%B9%E9%BD%90/</loc>
     
     <lastmod>2019-05-06T11:59:19.418Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2018/08/29/C++%20%20%E5%9F%BA%E7%A1%80/%E9%9A%8F%E6%9C%BA%E6%95%B0/</loc>
-    
-    <lastmod>2019-05-06T11:59:14.949Z</lastmod>
     
   </url>
   
