@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2019/08/02/C++%20%20%E5%9F%BA%E7%A1%80/%E7%94%A8freopen%E5%87%BD%E6%95%B0%E6%93%8D%E4%BD%9C%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E6%B5%81%E5%92%8C%E8%AF%BB%E5%86%99%E6%96%87%E4%BB%B6/</loc>
+    
+    <lastmod>2019-08-05T13:58:36.783Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2018/12/15/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E7%96%91%E9%9A%BE%E9%97%AE%E9%A2%98/</loc>
+    
+    <lastmod>2019-08-05T13:26:46.465Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/08/05/ROS%20Kinetic%E7%9F%A5%E8%AF%86/move_base%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
+    
+    <lastmod>2019-08-05T13:24:43.781Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2019/06/25/Shell%E8%84%9A%E6%9C%AC/shell%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
     
     <lastmod>2019-08-03T14:03:07.476Z</lastmod>
@@ -12,13 +33,6 @@
     <loc>https://charon-cheung.github.io/2019/05/16/Shell%E8%84%9A%E6%9C%AC/grep%E5%91%BD%E4%BB%A4%E6%90%9C%E7%B4%A2%E6%96%87%E6%9C%AC/</loc>
     
     <lastmod>2019-08-03T14:03:02.928Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/08/02/C++%20%20%E5%9F%BA%E7%A1%80/%E7%94%A8freopen%E5%87%BD%E6%95%B0%E6%93%8D%E4%BD%9C%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E6%B5%81%E5%92%8C%E8%AF%BB%E5%86%99%E6%96%87%E4%BB%B6/</loc>
-    
-    <lastmod>2019-08-03T13:55:12.837Z</lastmod>
     
   </url>
   
@@ -348,13 +362,6 @@
     <loc>https://charon-cheung.github.io/2018/07/12/MySQL/MySQL%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     
     <lastmod>2019-07-10T14:08:01.623Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2018/12/15/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E7%96%91%E9%9A%BE%E9%97%AE%E9%A2%98/</loc>
-    
-    <lastmod>2019-07-10T12:04:19.640Z</lastmod>
     
   </url>
   
