@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2019/05/13/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89find_package/</loc>
+    
+    <lastmod>2019-08-10T11:46:59.067Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2018/12/15/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E7%96%91%E9%9A%BE%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2019-08-10T06:08:06.778Z</lastmod>
@@ -719,13 +726,6 @@
     <loc>https://charon-cheung.github.io/2019/06/13/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     
     <lastmod>2019-06-14T14:05:37.915Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/05/13/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89find_package/</loc>
-    
-    <lastmod>2019-06-14T12:07:36.339Z</lastmod>
     
   </url>
   
