@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2019/05/13/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E4%B8%AD%E4%BD%BF%E7%94%A8GDB/</loc>
+    
+    <lastmod>2019-08-15T13:23:11.158Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2019/08/05/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/move_base%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
     
     <lastmod>2019-08-15T13:21:47.890Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://charon-cheung.github.io/2018/09/24/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%92%8C%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     
     <lastmod>2019-08-15T13:07:36.683Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/05/13/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E4%B8%AD%E4%BD%BF%E7%94%A8GDB/</loc>
-    
-    <lastmod>2019-08-15T13:04:01.773Z</lastmod>
     
   </url>
   
