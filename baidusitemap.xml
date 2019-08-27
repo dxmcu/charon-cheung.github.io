@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://charon-cheung.github.io/2019/08/27/MySQL/Mysql%E6%89%B9%E9%87%8F%E6%8F%92%E5%85%A5%E9%9A%8F%E6%9C%BA%E6%95%B0%E5%80%BC/</loc>
+    <lastmod>2019-08-27</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2018/07/12/MySQL/MySQL%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2019-08-27</lastmod>
+  </url>  <url>
     <loc>https://charon-cheung.github.io/2019/06/21/Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B/system%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2019-08-26</lastmod>
   </url>  <url>
@@ -231,9 +237,6 @@
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/07/11/MySQL/MySQL%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E5%92%8C%E5%BE%AA%E7%8E%AF/</loc>
     <lastmod>2019-07-11</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2018/07/12/MySQL/MySQL%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2019-07-10</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/07/12/MySQL/MySQL%E7%9A%84%E4%B8%BB%E9%94%AE%E5%92%8C%E5%A4%96%E9%94%AE/</loc>
     <lastmod>2019-07-10</lastmod>
