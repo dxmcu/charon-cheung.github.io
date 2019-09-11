@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://charon-cheung.github.io/2019/08/29/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89%E5%AF%BC%E8%88%AA%E8%BF%87%E7%A8%8B/</loc>
-    <lastmod>2019-08-31</lastmod>
+    <lastmod>2019-09-11</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2018/12/15/ROS%20Kinetic%E7%9F%A5%E8%AF%86/rosparam%E4%B8%8E%E5%8F%82%E6%95%B0%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2019-09-11</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2018/09/24/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%92%8C%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2019-09-11</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2018/08/17/Shell%E8%84%9A%E6%9C%AC/shell%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2019-09-11</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/09/02/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E8%8A%82%E7%82%B9%E6%88%96launch%E5%AE%9E%E7%8E%B0%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8/</loc>
+    <lastmod>2019-09-11</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/31/ROS%20Kinetic%E7%9F%A5%E8%AF%86/Action%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6/</loc>
     <lastmod>2019-08-31</lastmod>
@@ -84,9 +96,6 @@
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/17/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/Valgrind/</loc>
     <lastmod>2019-08-17</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2018/09/24/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%92%8C%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2019-08-15</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/12/15/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%AE%89%E8%A3%85%E5%92%8C%E7%BC%96%E8%AF%91%E7%AD%89%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2019-08-15</lastmod>
@@ -265,9 +274,6 @@
     <loc>https://charon-cheung.github.io/2019/07/06/Boost/Boost%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%94%EF%BC%89bind%EF%BC%8Cfunction%EF%BC%8Csignal/</loc>
     <lastmod>2019-07-09</lastmod>
   </url>  <url>
-    <loc>https://charon-cheung.github.io/2018/11/29/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E8%8A%82%E7%82%B9%E6%88%96launch%E5%AE%9E%E7%8E%B0%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8/</loc>
-    <lastmod>2019-07-09</lastmod>
-  </url>  <url>
     <loc>https://charon-cheung.github.io/2019/04/23/C++%20%20%E6%A8%A1%E6%9D%BF%E4%B8%8ESTL/%E5%AE%B9%E5%99%A8%E7%B1%BB%E5%92%8Callocator/</loc>
     <lastmod>2019-07-08</lastmod>
   </url>  <url>
@@ -318,9 +324,6 @@
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/06/18/Boost/Boost%E6%95%99%E7%A8%8B%EF%BC%88%E5%9B%9B%EF%BC%89%E8%AF%BB%E5%86%99JSON/</loc>
     <lastmod>2019-06-26</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2018/08/17/Shell%E8%84%9A%E6%9C%AC/shell%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2019-06-25</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/06/22/Web%20CGI/%E4%BD%BF%E7%94%A8Python%E5%BC%80%E5%8F%91cgi/</loc>
     <lastmod>2019-06-24</lastmod>
@@ -414,9 +417,6 @@
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/07/05/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0/</loc>
     <lastmod>2019-05-29</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2018/12/15/ROS%20Kinetic%E7%9F%A5%E8%AF%86/rosparam%E4%B8%8E%E5%8F%82%E6%95%B0%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2019-05-27</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/04/21/ROS%E7%A8%8B%E5%BA%8F%E5%92%8C%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/%E6%B6%88%E6%81%AF%E6%96%87%E4%BB%B6%E7%9A%84%E5%A4%B4%E6%96%87%E4%BB%B6%E6%BA%90%E7%A0%81/</loc>
     <lastmod>2019-05-22</lastmod>
