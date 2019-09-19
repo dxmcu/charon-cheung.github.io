@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2019/09/19/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E5%AE%8C%E5%85%A8%E9%80%80%E5%87%BAROS%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
+    
+    <lastmod>2019-09-19T12:51:46.498Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/06/25/Shell%E8%84%9A%E6%9C%AC/shell%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
+    
+    <lastmod>2019-09-19T12:43:40.120Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2018/08/17/Shell%E8%84%9A%E6%9C%AC/shell%E5%91%BD%E4%BB%A4%20%E5%AD%97%E7%AC%A6%E4%B8%B2/</loc>
+    
+    <lastmod>2019-09-19T12:41:49.667Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/03/11/Shell%E8%84%9A%E6%9C%AC/locate%E5%92%8Cfind/</loc>
+    
+    <lastmod>2019-09-19T12:36:43.522Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2019/09/18/Valgrind%E5%92%8C%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/%E5%87%A0%E7%A7%8D%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E7%9A%84%E6%83%85%E5%86%B5/</loc>
     
     <lastmod>2019-09-18T13:25:04.368Z</lastmod>
@@ -61,20 +89,6 @@
     <loc>https://charon-cheung.github.io/2019/09/17/MySQL/MySQL%E7%9A%84%E6%97%A5%E5%BF%97/</loc>
     
     <lastmod>2019-09-17T12:27:24.142Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2018/08/17/Shell%E8%84%9A%E6%9C%AC/shell%E5%91%BD%E4%BB%A4/</loc>
-    
-    <lastmod>2019-09-16T13:18:21.539Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/06/25/Shell%E8%84%9A%E6%9C%AC/shell%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
-    
-    <lastmod>2019-09-16T13:18:05.739Z</lastmod>
     
   </url>
   
@@ -1160,13 +1174,6 @@
     <loc>https://charon-cheung.github.io/2018/11/27/Shell%E8%84%9A%E6%9C%AC/Linux%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84alias/</loc>
     
     <lastmod>2019-05-06T13:41:41.929Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/03/11/Shell%E8%84%9A%E6%9C%AC/locate%E5%92%8Cfind/</loc>
-    
-    <lastmod>2019-05-06T13:41:37.251Z</lastmod>
     
   </url>
   
