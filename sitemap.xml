@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://charon-cheung.github.io/2019/09/27/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%B8%89%EF%BC%89slam_gmapping%E8%8A%82%E7%82%B9/</loc>
+    <loc>https://charon-cheung.github.io/2019/09/28/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%88%91%E7%9A%84%E5%AF%BC%E8%88%AA%E7%A8%8B%E5%BA%8F%E6%9E%B6%E6%9E%84/</loc>
     
-    <lastmod>2019-09-27T12:29:14.802Z</lastmod>
+    <lastmod>2019-09-28T11:55:04.166Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2018/11/15/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/ROS%E5%9C%B0%E5%9B%BE%E8%AF%A6%E8%A7%A3/</loc>
+    <loc>https://charon-cheung.github.io/2019/08/29/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E5%85%AB%EF%BC%89rotate_recovery/</loc>
     
-    <lastmod>2019-09-27T12:24:38.495Z</lastmod>
+    <lastmod>2019-09-28T11:52:07.274Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/08/05/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    
+    <lastmod>2019-09-28T11:51:53.653Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/09/27/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%B8%89%EF%BC%89slam_gmapping%E8%8A%82%E7%82%B9/</loc>
+    
+    <lastmod>2019-09-28T11:47:18.473Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/09/18/Valgrind%E5%92%8C%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/%E5%87%A0%E7%A7%8D%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E7%9A%84%E6%83%85%E5%86%B5/</loc>
+    
+    <lastmod>2019-09-28T11:46:32.348Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/09/15/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/ROS%E5%9C%B0%E5%9B%BE%E8%AF%A6%E8%A7%A3/</loc>
+    
+    <lastmod>2019-09-27T12:36:55.773Z</lastmod>
     
   </url>
   
@@ -26,13 +54,6 @@
     <loc>https://charon-cheung.github.io/2019/08/12/Linux%E5%9F%BA%E7%A1%80/Linux%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/</loc>
     
     <lastmod>2019-09-27T12:12:45.473Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/08/29/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E5%85%AB%EF%BC%89rotate_recovery/</loc>
-    
-    <lastmod>2019-09-27T12:10:00.314Z</lastmod>
     
   </url>
   
@@ -82,13 +103,6 @@
     <loc>https://charon-cheung.github.io/2018/09/24/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%92%8C%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     
     <lastmod>2019-09-26T12:10:52.703Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/09/18/Valgrind%E5%92%8C%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/%E5%87%A0%E7%A7%8D%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E7%9A%84%E6%83%85%E5%86%B5/</loc>
-    
-    <lastmod>2019-09-25T14:12:06.534Z</lastmod>
     
   </url>
   
@@ -327,13 +341,6 @@
     <loc>https://charon-cheung.github.io/2019/05/13/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89find_package/</loc>
     
     <lastmod>2019-08-26T13:02:20.585Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/08/05/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
-    
-    <lastmod>2019-08-25T12:37:58.697Z</lastmod>
     
   </url>
   
