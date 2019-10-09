@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2019/09/27/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%B8%89%EF%BC%89slam_gmapping%E8%8A%82%E7%82%B9/</loc>
+    
+    <lastmod>2019-10-09T12:36:02.045Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/10/09/%E5%90%8D%E8%A8%80%E6%94%B6%E9%9B%86/</loc>
+    
+    <lastmod>2019-10-09T12:35:46.414Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2018/08/17/Shell%E8%84%9A%E6%9C%AC/shell%E5%91%BD%E4%BB%A4%20%E5%AD%97%E7%AC%A6%E4%B8%B2/</loc>
+    
+    <lastmod>2019-10-09T12:32:02.597Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/10/09/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E6%90%AD%E5%BB%BA%E5%BC%80%E5%8F%91ROS%E7%9A%84pycharm%E7%8E%AF%E5%A2%83/</loc>
+    
+    <lastmod>2019-10-09T12:31:06.155Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2019/09/30/Shell%E8%84%9A%E6%9C%AC/sed%E5%92%8Cawk/</loc>
     
     <lastmod>2019-09-30T15:15:51.789Z</lastmod>
@@ -40,13 +68,6 @@
     <loc>https://charon-cheung.github.io/2019/08/05/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2019-09-28T11:51:53.653Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/09/27/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%B8%89%EF%BC%89slam_gmapping%E8%8A%82%E7%82%B9/</loc>
-    
-    <lastmod>2019-09-28T11:47:18.473Z</lastmod>
     
   </url>
   
@@ -180,13 +201,6 @@
     <loc>https://charon-cheung.github.io/2019/06/25/Shell%E8%84%9A%E6%9C%AC/shell%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
     
     <lastmod>2019-09-19T12:43:40.120Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2018/08/17/Shell%E8%84%9A%E6%9C%AC/shell%E5%91%BD%E4%BB%A4%20%E5%AD%97%E7%AC%A6%E4%B8%B2/</loc>
-    
-    <lastmod>2019-09-19T12:41:49.667Z</lastmod>
     
   </url>
   
