@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://charon-cheung.github.io/2019/10/24/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%89%EF%BC%89%E6%BA%90%E7%A0%81%E5%92%8C%E8%B0%83%E7%94%A8%E6%B5%81%E7%A8%8B/</loc>
+    <lastmod>2019-10-30</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/10/30/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90(%E5%9B%9B)%20planThread%E7%BA%BF%E7%A8%8B/</loc>
+    <lastmod>2019-10-30</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/10/30/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90(%E4%BA%94)%20global_planner/</loc>
+    <lastmod>2019-10-30</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/10/30/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90(%E5%9B%9B)%20planThread%E7%BA%BF%E7%A8%8B%E5%92%8CplanService/</loc>
+    <lastmod>2019-10-30</lastmod>
+  </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/26/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E5%9B%9B%EF%BC%89global%E5%92%8Clocal%E7%9A%84%E5%9C%B0%E5%9B%BE%E3%80%81%E8%B7%AF%E5%BE%84/</loc>
     <lastmod>2019-10-28</lastmod>
   </url>  <url>
@@ -8,9 +20,6 @@
     <lastmod>2019-10-28</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/29/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89%E5%AF%BC%E8%88%AA%E8%BF%87%E7%A8%8B/</loc>
-    <lastmod>2019-10-28</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/10/24/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%89%EF%BC%89%E6%BA%90%E7%A0%81%E5%92%8C%E8%B0%83%E7%94%A8%E6%B5%81%E7%A8%8B/</loc>
     <lastmod>2019-10-28</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/10/17/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BB%BA%E5%9B%BE%E7%9A%84%E5%8E%9F%E7%90%86/</loc>
