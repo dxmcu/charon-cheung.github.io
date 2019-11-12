@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://charon-cheung.github.io/2019/11/12/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4/</loc>
+    <lastmod>2019-11-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/10/23/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%E7%9A%84%E5%B1%80%E9%83%A8%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/</loc>
+    <lastmod>2019-11-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/10/24/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%89%EF%BC%89%E6%BA%90%E7%A0%81%E5%92%8C%E8%B0%83%E7%94%A8%E6%B5%81%E7%A8%8B/</loc>
+    <lastmod>2019-11-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2018/09/17/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E8%A7%84%E5%88%99/</loc>
+    <lastmod>2019-11-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/08/29/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BB%A3%E4%BB%B7%E5%9C%B0%E5%9B%BE%20costmap_2d/</loc>
+    <lastmod>2019-11-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/10/30/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90(%E5%9B%9B)%20planThread%E7%BA%BF%E7%A8%8B%E5%92%8CplanService/</loc>
+    <lastmod>2019-11-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/10/30/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90%EF%BC%88%E5%9B%9B%EF%BC%89%20planThread%E7%BA%BF%E7%A8%8B%E5%92%8CplanService/</loc>
+    <lastmod>2019-11-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/10/23/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E5%B1%80%E9%83%A8%E8%B7%AF%E5%BE%84%E7%AE%97%E6%B3%95%20dwa_local_planner/</loc>
+    <lastmod>2019-11-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/10/30/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E5%85%A8%E5%B1%80%E8%B7%AF%E5%BE%84%E7%AE%97%E6%B3%95%20global_planner/</loc>
+    <lastmod>2019-11-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2018/12/15/ROS%20Kinetic%E7%9F%A5%E8%AF%86/rosparam%E4%B8%8E%E5%8F%82%E6%95%B0%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2019-11-08</lastmod>
+  </url>  <url>
     <loc>https://charon-cheung.github.io/2019/11/08/%E6%88%91%E7%9A%84%E5%AF%BC%E8%88%AA%E7%A8%8B%E5%BA%8F%E7%9A%84%E7%96%91%E9%9A%BE%E9%97%AE%E9%A2%98/%E5%85%A8%E5%B1%80%E8%B7%AF%E5%BE%84%E4%BA%A4%E5%8F%89%E5%AF%BC%E8%87%B4%E5%B1%80%E9%83%A8%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E5%87%BA%E9%94%99/</loc>
     <lastmod>2019-11-08</lastmod>
   </url>  <url>
@@ -12,9 +42,6 @@
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/26/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E5%9B%9B%EF%BC%89ROS%E4%B8%AD%E7%9A%84catkin_make/</loc>
     <lastmod>2019-11-08</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2018/12/15/ROS%20Kinetic%E7%9F%A5%E8%AF%86/rosparam%E4%B8%8E%E5%8F%82%E6%95%B0%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2019-11-07</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/11/07/%E6%88%91%E7%9A%84%E5%AF%BC%E8%88%AA%E7%A8%8B%E5%BA%8F%E7%9A%84%E7%96%91%E9%9A%BE%E9%97%AE%E9%A2%98/getifaddr()%E6%8A%A5%E9%94%99%E5%92%8C%E7%BC%BA%E5%B0%91%E6%97%A5%E5%BF%97%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%AD%89%E9%94%99%E8%AF%AF/</loc>
     <lastmod>2019-11-07</lastmod>
@@ -43,22 +70,7 @@
     <loc>https://charon-cheung.github.io/2019/10/17/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BB%BA%E5%9B%BE%E7%9A%84%E5%8E%9F%E7%90%86/</loc>
     <lastmod>2019-11-07</lastmod>
   </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/10/30/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90(%E5%9B%9B)%20planThread%E7%BA%BF%E7%A8%8B/</loc>
-    <lastmod>2019-10-30</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/10/24/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%89%EF%BC%89%E6%BA%90%E7%A0%81%E5%92%8C%E8%B0%83%E7%94%A8%E6%B5%81%E7%A8%8B/</loc>
-    <lastmod>2019-10-30</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/10/30/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90(%E4%BA%94)%20global_planner/</loc>
-    <lastmod>2019-10-30</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/10/30/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90(%E5%9B%9B)%20planThread%E7%BA%BF%E7%A8%8B%E5%92%8CplanService/</loc>
-    <lastmod>2019-10-30</lastmod>
-  </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/26/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E5%9B%9B%EF%BC%89global%E5%92%8Clocal%E7%9A%84%E5%9C%B0%E5%9B%BE%E3%80%81%E8%B7%AF%E5%BE%84/</loc>
-    <lastmod>2019-10-28</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/10/23/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%E7%9A%84%E5%B1%80%E9%83%A8%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/</loc>
     <lastmod>2019-10-28</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/29/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89%E5%AF%BC%E8%88%AA%E8%BF%87%E7%A8%8B/</loc>
@@ -106,7 +118,7 @@
     <loc>https://charon-cheung.github.io/2019/09/28/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%88%91%E7%9A%84%E5%AF%BC%E8%88%AA%E7%A8%8B%E5%BA%8F%E6%9E%B6%E6%9E%84/</loc>
     <lastmod>2019-09-28</lastmod>
   </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/08/29/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E5%85%AB%EF%BC%89rotate_recovery/</loc>
+    <loc>https://charon-cheung.github.io/2019/08/29/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/move_base%E5%88%86%E6%9E%90%EF%BC%88%E4%BA%94%EF%BC%89rotate_recovery/</loc>
     <lastmod>2019-09-28</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/05/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
@@ -119,9 +131,6 @@
     <lastmod>2019-09-27</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/12/Linux%E5%9F%BA%E7%A1%80/Linux%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2019-09-27</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/08/29/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E5%85%AD%EF%BC%89costmap_2d/</loc>
     <lastmod>2019-09-27</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/09/23/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/SVN%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
@@ -200,9 +209,6 @@
     <lastmod>2019-08-26</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/05/14/Linux%E5%9F%BA%E7%A1%80/Ubuntu%E7%B3%BB%E7%BB%9F%E5%88%9D%E5%A7%8B%E5%8C%96/</loc>
-    <lastmod>2019-08-26</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2018/09/17/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E8%A7%84%E5%88%99/</loc>
     <lastmod>2019-08-26</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/11/20/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89%20%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
