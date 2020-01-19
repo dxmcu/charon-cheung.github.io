@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/01/14/C++%20%20%E6%A8%A1%E6%9D%BF%E4%B8%8ESTL/list%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
+    <loc>https://charon-cheung.github.io/2019/09/24/C++%20%20%E6%A8%A1%E6%9D%BF%E4%B8%8ESTL/vector%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
     
-    <lastmod>2020-01-14T14:33:54.917Z</lastmod>
+    <lastmod>2020-01-19T14:12:22.006Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2019/09/24/C++%20%20%E6%A8%A1%E6%9D%BF%E4%B8%8ESTL/vector%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
+    <loc>https://charon-cheung.github.io/2019/12/16/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E6%A8%A1%E5%9E%8B/</loc>
     
-    <lastmod>2020-01-14T13:42:15.774Z</lastmod>
+    <lastmod>2020-01-19T13:57:08.841Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2018/07/21/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E8%99%9A%E5%87%BD%E6%95%B0%E8%AF%A6%E8%A7%A3/</loc>
+    
+    <lastmod>2020-01-19T13:56:54.140Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/12/30/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E6%80%BB%E7%BB%93Effective%20C++%E6%9D%A1%E6%AC%BE/</loc>
+    
+    <lastmod>2020-01-19T13:54:44.660Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/01/16/C++%20%20%E6%A8%A1%E6%9D%BF%E4%B8%8ESTL/deque/</loc>
+    
+    <lastmod>2020-01-16T14:09:30.219Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/01/14/C++%20%20%E6%A8%A1%E6%9D%BF%E4%B8%8ESTL/list%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
+    
+    <lastmod>2020-01-16T13:32:59.756Z</lastmod>
     
   </url>
   
@@ -68,13 +96,6 @@
     <loc>https://charon-cheung.github.io/2019/10/09/%E5%90%8D%E8%A8%80%E6%94%B6%E9%9B%86/</loc>
     
     <lastmod>2020-01-12T02:01:01.057Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/12/30/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E6%80%BB%E7%BB%93Effective%20C++%E6%9D%A1%E6%AC%BE/</loc>
-    
-    <lastmod>2020-01-03T13:34:01.892Z</lastmod>
     
   </url>
   
@@ -187,13 +208,6 @@
     <loc>https://charon-cheung.github.io/2019/09/15/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/ROS%E5%9C%B0%E5%9B%BE%E8%AF%A6%E8%A7%A3/</loc>
     
     <lastmod>2019-12-18T13:30:00.346Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/12/16/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E6%A8%A1%E5%9E%8B/</loc>
-    
-    <lastmod>2019-12-16T14:26:34.216Z</lastmod>
     
   </url>
   
@@ -1325,13 +1339,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2018/07/21/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E8%99%9A%E5%87%BD%E6%95%B0%E8%AF%A6%E8%A7%A3/</loc>
-    
-    <lastmod>2019-05-30T13:55:27.712Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2018/07/05/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0/</loc>
     
     <lastmod>2019-05-29T13:03:53.537Z</lastmod>
@@ -1517,13 +1524,6 @@
     <loc>https://charon-cheung.github.io/2018/07/21/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E9%9D%99%E6%80%81%E7%BB%91%E5%AE%9A%E5%92%8C%E5%8A%A8%E6%80%81%E7%BB%91%E5%AE%9A/</loc>
     
     <lastmod>2019-05-06T12:02:12.127Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2018/07/21/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E8%A7%A3%E6%9E%90Effective%20C++%20%E6%9D%A1%E6%AC%BE36,37/</loc>
-    
-    <lastmod>2019-05-06T12:01:42.902Z</lastmod>
     
   </url>
   
