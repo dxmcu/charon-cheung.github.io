@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://charon-cheung.github.io/2020/03/21/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93/MQTT(%E4%BA%8C)%20QtMqtt%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%9E%E7%8E%B0%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85/</loc>
+    <loc>https://charon-cheung.github.io/2020/03/21/Qt/%E5%A6%82%E4%BD%95%E8%AE%A9%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93%E5%92%8CQt%E8%87%AA%E8%BA%AB%E5%BA%93%E4%B8%80%E6%A0%B7%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2020-03-21</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/03/21/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93/MQTT(%E4%B8%80)%20%E9%85%8D%E7%BD%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8CQt%E5%BA%93/</loc>
+    <lastmod>2020-03-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/03/21/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93/MQTT(%E4%BA%8C)%20QtMqtt%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%9E%E7%8E%B0%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85/</loc>
     <lastmod>2020-03-21</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/09/24/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%92%8C%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
