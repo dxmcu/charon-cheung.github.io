@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2020/04/04/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/pf_init%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-04-05T01:45:10.504Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/04/01/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90(%E4%BA%8C)handleMapMessage/</loc>
+    
+    <lastmod>2020-04-05T01:45:07.908Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/08/28/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/amcl%E7%9A%84%E8%AF%9D%E9%A2%98%E5%92%8C%E5%8F%82%E6%95%B0/</loc>
+    
+    <lastmod>2020-04-05T01:45:03.858Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/04/04/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/pf_alloc%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-04-05T01:44:43.283Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2018/11/20/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89%20%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2020-04-04T14:36:46.750Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2020/04/04/SLAM%E5%B7%A5%E5%85%B7/Matlab/Matlab%E8%AF%BB%E6%96%87%E4%BB%B6%E7%94%BB%E6%95%A3%E7%82%B9%E5%9B%BE/</loc>
     
     <lastmod>2020-04-04T14:08:39.176Z</lastmod>
@@ -19,34 +54,6 @@
     <loc>https://charon-cheung.github.io/2020/02/25/SLAM%E5%B7%A5%E5%85%B7/Matlab/matlab%E7%94%BB%E7%AD%89%E9%AB%98%E7%BA%BF/</loc>
     
     <lastmod>2020-04-04T14:01:36.390Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/04/04/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/pf_init%E5%87%BD%E6%95%B0/</loc>
-    
-    <lastmod>2020-04-04T12:11:03.582Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/04/04/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/pf_alloc%E5%87%BD%E6%95%B0/</loc>
-    
-    <lastmod>2020-04-04T10:04:53.909Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/04/01/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90(%E4%BA%8C)handleMapMessage/</loc>
-    
-    <lastmod>2020-04-04T09:59:42.046Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/08/28/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/amcl%E7%9A%84%E8%AF%9D%E9%A2%98%E5%92%8C%E5%8F%82%E6%95%B0/</loc>
-    
-    <lastmod>2020-04-04T09:41:26.444Z</lastmod>
     
   </url>
   
@@ -1503,13 +1510,6 @@
     <loc>https://charon-cheung.github.io/2020/03/02/%E6%BF%80%E5%85%89SLAM/%E6%B7%B1%E8%93%9D%E5%AD%A6%E9%99%A2-%E6%BF%80%E5%85%89SLAM%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E7%AC%AC4%E7%AB%A0%20%E5%89%8D%E7%AB%AF%E9%85%8D%E5%87%86I/</loc>
     
     <lastmod>2020-03-05T03:52:05.292Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2018/11/20/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89%20%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
-    
-    <lastmod>2020-03-03T12:10:20.296Z</lastmod>
     
   </url>
   
