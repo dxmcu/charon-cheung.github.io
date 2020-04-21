@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://charon-cheung.github.io/2020/03/09/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/urdf%E5%BB%BA%E6%A8%A1/</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/04/20/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/%E5%B0%8F%E5%BC%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%AF%B4%E6%98%8E/</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/09/02/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/%E8%8A%82%E7%82%B9%E6%88%96launch%E5%AE%9E%E7%8E%B0%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8/</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/04/08/%E6%BF%80%E5%85%89SLAM/PL-ICP/PL-ICP%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2020-04-21</lastmod>
+  </url>  <url>
     <loc>https://charon-cheung.github.io/2020/04/21/Matlab/Matlab%E4%B8%AD%E4%BD%BF%E7%94%A8ROS/</loc>
     <lastmod>2020-04-21</lastmod>
   </url>  <url>
@@ -8,9 +20,6 @@
     <lastmod>2020-04-21</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/03/02/ROS/ROS%E7%A8%8B%E5%BA%8F%E5%92%8C%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90%E4%B9%8C%E9%BE%9F%E8%BF%BD%E4%B9%8C%E9%BE%9F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2020-04-21</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/04/20/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/%E5%B0%8F%E5%BC%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%AF%B4%E6%98%8E/</loc>
     <lastmod>2020-04-21</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/04/09/%E6%BF%80%E5%85%89SLAM/PL-ICP/csm%E5%8C%85%E7%9A%84%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB%20(%E4%B8%80)/</loc>
@@ -50,9 +59,6 @@
     <lastmod>2020-04-13</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/04/04/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/pf_init%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2020-04-12</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/04/08/%E6%BF%80%E5%85%89SLAM/PL-ICP/PL-ICP%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2020-04-12</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/04/12/Matlab/Matlab%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</loc>
@@ -119,9 +125,6 @@
     <lastmod>2020-03-29</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/06/24/ROS/ROS%E7%A8%8B%E5%BA%8F%E5%92%8C%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/ROS%E9%80%9A%E8%AE%AF%E6%A8%A1%E5%9E%8B/</loc>
-    <lastmod>2020-03-27</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/09/02/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E8%8A%82%E7%82%B9%E6%88%96launch%E5%AE%9E%E7%8E%B0%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8/</loc>
     <lastmod>2020-03-27</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/05/%E6%88%91%E7%9A%84%E5%AF%BC%E8%88%AA%E7%A8%8B%E5%BA%8F%E7%9A%84%E7%96%91%E9%9A%BE%E9%97%AE%E9%A2%98/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
@@ -323,9 +326,6 @@
     <lastmod>2020-03-11</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/02/23/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E6%94%B6%E9%9B%86/</loc>
-    <lastmod>2020-03-11</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/03/09/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/urdf%E5%BB%BA%E6%A8%A1/</loc>
     <lastmod>2020-03-11</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/09/17/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/catkin_make%E5%8F%8Acmakelists%E5%88%86%E6%9E%90/</loc>
