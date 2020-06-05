@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/06/03/%E8%A7%86%E8%A7%89SLAM/Kinect%E6%B7%B1%E5%BA%A6%E5%9B%BE%E4%BF%AE%E5%A4%8D/</loc>
+    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E5%9F%BA%E4%BA%8EKinect%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/</loc>
     
-    <lastmod>2020-06-04T10:59:32.541Z</lastmod>
+    <lastmod>2020-06-05T14:25:40.876Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E5%9F%BA%E4%BA%8EKinect%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/</loc>
+    <loc>https://charon-cheung.github.io/2020/06/05/%E8%A7%86%E8%A7%89SLAM/depthimage_to_laserscan%20%E6%B7%B1%E5%BA%A6%E5%9B%BE%E8%BD%ACscan/</loc>
     
-    <lastmod>2020-06-04T10:59:19.500Z</lastmod>
+    <lastmod>2020-06-05T14:25:24.837Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/05/21/%E6%BF%80%E5%85%89SLAM/%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E9%9B%86/</loc>
+    
+    <lastmod>2020-06-05T13:36:39.867Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/02/26/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E5%AE%9E%E6%88%98tf/</loc>
+    
+    <lastmod>2020-06-04T13:00:08.503Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/06/04/%E6%BF%80%E5%85%89SLAM/laser_scan_matcher/</loc>
+    
+    <lastmod>2020-06-04T12:57:11.087Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/06/03/%E8%A7%86%E8%A7%89SLAM/Kinect%E6%B7%B1%E5%BA%A6%E5%9B%BE%E4%BF%AE%E5%A4%8D/</loc>
+    
+    <lastmod>2020-06-04T10:59:32.541Z</lastmod>
     
   </url>
   
@@ -124,13 +152,6 @@
     <loc>https://charon-cheung.github.io/2020/05/26/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/tf%20MessageFilter/</loc>
     
     <lastmod>2020-05-26T11:40:39.582Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/05/21/%E6%BF%80%E5%85%89SLAM/%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E9%9B%86/</loc>
-    
-    <lastmod>2020-05-26T11:38:31.598Z</lastmod>
     
   </url>
   
@@ -1027,13 +1048,6 @@
     <loc>https://charon-cheung.github.io/2019/05/16/%E8%84%9A%E6%9C%AC/Shell%E8%84%9A%E6%9C%AC/grep%E5%91%BD%E4%BB%A4%E6%90%9C%E7%B4%A2%E6%96%87%E6%9C%AC/</loc>
     
     <lastmod>2020-03-09T13:05:01.980Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/02/26/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E5%AE%9E%E6%88%98tf/</loc>
-    
-    <lastmod>2020-03-08T09:04:24.391Z</lastmod>
     
   </url>
   
