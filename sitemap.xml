@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E5%9F%BA%E4%BA%8EKinect%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/</loc>
+    
+    <lastmod>2020-06-06T10:20:41.513Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/06/05/%E8%A7%86%E8%A7%89SLAM/depthimage_to_laserscan%20%E6%B7%B1%E5%BA%A6%E5%9B%BE%E8%BD%ACscan/</loc>
+    
+    <lastmod>2020-06-06T10:06:45.752Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2018/09/17/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E8%A7%84%E5%88%99/</loc>
+    
+    <lastmod>2020-06-06T05:25:05.617Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2020/06/03/%E6%BF%80%E5%85%89SLAM/gmapping/(%E5%85%AD)%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%904%20%20processScan%E5%87%BD%E6%95%B0/</loc>
     
     <lastmod>2020-06-05T14:27:39.502Z</lastmod>
@@ -12,20 +33,6 @@
     <loc>https://charon-cheung.github.io/2020/06/03/%E8%A7%86%E8%A7%89SLAM/Kinect%E6%B7%B1%E5%BA%A6%E5%9B%BE%E4%BF%AE%E5%A4%8D/</loc>
     
     <lastmod>2020-06-05T14:26:07.871Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E5%9F%BA%E4%BA%8EKinect%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/</loc>
-    
-    <lastmod>2020-06-05T14:25:40.876Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/06/05/%E8%A7%86%E8%A7%89SLAM/depthimage_to_laserscan%20%E6%B7%B1%E5%BA%A6%E5%9B%BE%E8%BD%ACscan/</loc>
-    
-    <lastmod>2020-06-05T14:25:24.837Z</lastmod>
     
   </url>
   
@@ -1769,13 +1776,6 @@
     <loc>https://charon-cheung.github.io/2020/02/19/OpenCV/%E5%88%9D%E8%AF%86OpenCV/</loc>
     
     <lastmod>2020-02-28T01:41:43.065Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2018/09/17/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E8%A7%84%E5%88%99/</loc>
-    
-    <lastmod>2020-02-22T02:14:40.286Z</lastmod>
     
   </url>
   
