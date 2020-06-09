@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://charon-cheung.github.io/2020/06/04/%E6%BF%80%E5%85%89SLAM/laser_scan_matcher/</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/06/24/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/rosbag%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E5%9F%BA%E4%BA%8EKinect%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>  <url>
     <loc>https://charon-cheung.github.io/2019/11/13/%E6%BF%80%E5%85%89SLAM/Cartographer/(%E4%B8%80)%20%E5%AE%89%E8%A3%85%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-06-08</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/12/15/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%AE%89%E8%A3%85%E5%92%8C%E7%BC%96%E8%AF%91%E7%AD%89%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2020-06-08</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E5%9F%BA%E4%BA%8EKinect%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/</loc>
     <lastmod>2020-06-08</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/09/17/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E8%A7%84%E5%88%99/</loc>
@@ -29,9 +35,6 @@
     <lastmod>2020-06-05</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/02/26/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E5%AE%9E%E6%88%98tf/</loc>
-    <lastmod>2020-06-04</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/06/04/%E6%BF%80%E5%85%89SLAM/laser_scan_matcher/</loc>
     <lastmod>2020-06-04</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/05/27/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%BA%94)%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%903%20%20laserCallback%E7%AC%AC2%E9%83%A8%E5%88%86%E5%8F%8AaddScan/</loc>
@@ -608,9 +611,6 @@
     <lastmod>2020-03-05</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/12/15/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/rosparam%E4%B8%8E%E5%8F%82%E6%95%B0%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2020-03-05</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/06/24/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/rosbag%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2020-03-05</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/05/21/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8%E7%BD%91%E9%A1%B5%E7%AB%AF%E5%AF%BC%E8%88%AA%E7%9A%84%E6%B5%81%E7%A8%8B/</loc>
