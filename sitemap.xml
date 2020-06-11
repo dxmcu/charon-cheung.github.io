@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/06/03/%E8%A7%86%E8%A7%89SLAM/Kinect%E6%B7%B1%E5%BA%A6%E5%9B%BE/</loc>
+    <loc>https://charon-cheung.github.io/2020/06/11/PCL%E7%82%B9%E4%BA%91/%E7%82%B9%E4%BA%91%E6%BB%A4%E6%B3%A2/</loc>
     
-    <lastmod>2020-06-11T11:20:52.055Z</lastmod>
+    <lastmod>2020-06-11T12:13:14.063Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/06/11/PCL%E7%82%B9%E4%BA%91/%E7%82%B9%E4%BA%91%E6%BB%A4%E6%B3%A2/</loc>
+    <loc>https://charon-cheung.github.io/2020/06/03/%E8%A7%86%E8%A7%89SLAM/Kinect%E6%B7%B1%E5%BA%A6%E5%9B%BE/</loc>
     
-    <lastmod>2020-06-11T11:20:34.054Z</lastmod>
+    <lastmod>2020-06-11T12:12:17.767Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/06/11/OpenCV/CvBridge%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2020-06-11T12:12:14.213Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://charon-cheung.github.io/2019/11/27/PCL%E7%82%B9%E4%BA%91/(%E4%B8%80)%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%EF%BC%8C%E5%B8%B8%E7%94%A8%E7%B1%BB/</loc>
     
-    <lastmod>2020-06-11T11:18:04.540Z</lastmod>
+    <lastmod>2020-06-11T11:58:33.775Z</lastmod>
     
   </url>
   
@@ -68,13 +75,6 @@
     <loc>https://charon-cheung.github.io/2019/09/15/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/ROS%E5%9C%B0%E5%9B%BE%E8%AF%A6%E8%A7%A3/</loc>
     
     <lastmod>2020-06-11T11:11:15.756Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/06/11/OpenCV/CvBridge%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
-    
-    <lastmod>2020-06-11T11:06:53.541Z</lastmod>
     
   </url>
   
