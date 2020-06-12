@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://charon-cheung.github.io/2020/06/11/PCL%E7%82%B9%E4%BA%91/%E7%82%B9%E4%BA%91%E6%BB%A4%E6%B3%A2/</loc>
-    <lastmod>2020-06-11</lastmod>
+    <loc>https://charon-cheung.github.io/2019/09/27/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%BA%8C)%20slam_gmapping%E8%8A%82%E7%82%B9%E5%92%8C%E6%89%80%E6%9C%89%E5%8F%82%E6%95%B0/</loc>
+    <lastmod>2020-06-12</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/06/03/%E8%A7%86%E8%A7%89SLAM/Kinect%E6%B7%B1%E5%BA%A6%E5%9B%BE/</loc>
-    <lastmod>2020-06-11</lastmod>
+    <lastmod>2020-06-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/06/12/SLAM%E5%B7%A5%E5%85%B7/OctoMap%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2020-06-12</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/06/11/PCL%E7%82%B9%E4%BA%91/%E7%82%B9%E4%BA%91%E6%BB%A4%E6%B3%A2/</loc>
+    <lastmod>2020-06-12</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/06/11/OpenCV/CvBridge%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2020-06-11</lastmod>
@@ -86,9 +92,6 @@
     <lastmod>2020-06-01</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/10/17/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BB%BA%E5%9B%BE%E7%9A%84%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2020-05-31</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/09/27/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%BA%8C)%20slam_gmapping%E8%8A%82%E7%82%B9%E5%92%8C%E6%89%80%E6%9C%89%E5%8F%82%E6%95%B0/</loc>
     <lastmod>2020-05-31</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/05/19/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/%E5%B0%8F%E5%BC%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E9%87%8C%E7%A8%8B%E8%AE%A1%E8%AF%AF%E5%B7%AE/</loc>
