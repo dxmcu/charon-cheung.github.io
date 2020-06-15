@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2020/06/03/%E6%BF%80%E5%85%89SLAM/gmapping/(%E5%85%AD)%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%904%20%20processScan%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-06-15T09:20:05.949Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/05/27/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%BA%94)%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%903%20%20laserCallback%E7%AC%AC2%E9%83%A8%E5%88%86%E5%8F%8AaddScan/</loc>
+    
+    <lastmod>2020-06-15T09:18:56.533Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/06/15/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%B8%83)%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%905%20%20updateMap%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-06-15T09:18:53.403Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/09/27/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%BA%8C)%20slam_gmapping%E8%8A%82%E7%82%B9%E5%92%8C%E6%89%80%E6%9C%89%E5%8F%82%E6%95%B0/</loc>
+    
+    <lastmod>2020-06-15T08:16:35.517Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/05/30/SLAM%E5%B7%A5%E5%85%B7/Eigen/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%BA%93Eigen%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
+    
+    <lastmod>2020-06-15T04:03:12.185Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2020/06/02/%E6%BF%80%E5%85%89SLAM/gmapping/(%E5%9B%9B)%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%902%20%20initMapper%20%E7%AC%AC2%E9%83%A8%E5%88%86/</loc>
     
     <lastmod>2020-06-15T01:44:44.266Z</lastmod>
@@ -19,13 +54,6 @@
     <loc>https://charon-cheung.github.io/2019/12/19/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%B8%80)%20%E6%A6%82%E8%BF%B0/</loc>
     
     <lastmod>2020-06-14T23:33:05.484Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/09/27/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%BA%8C)%20slam_gmapping%E8%8A%82%E7%82%B9%E5%92%8C%E6%89%80%E6%9C%89%E5%8F%82%E6%95%B0/</loc>
-    
-    <lastmod>2020-06-12T13:29:09.580Z</lastmod>
     
   </url>
   
@@ -184,13 +212,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/06/03/%E6%BF%80%E5%85%89SLAM/gmapping/(%E5%85%AD)%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%904%20%20processScan%E5%87%BD%E6%95%B0/</loc>
-    
-    <lastmod>2020-06-05T14:27:39.502Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2020/05/21/%E6%BF%80%E5%85%89SLAM/%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E9%9B%86/</loc>
     
     <lastmod>2020-06-05T13:36:39.867Z</lastmod>
@@ -201,13 +222,6 @@
     <loc>https://charon-cheung.github.io/2019/02/26/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E5%AE%9E%E6%88%98tf/</loc>
     
     <lastmod>2020-06-04T13:00:08.503Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/05/27/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%BA%94)%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%903%20%20laserCallback%E7%AC%AC2%E9%83%A8%E5%88%86%E5%8F%8AaddScan/</loc>
-    
-    <lastmod>2020-06-03T13:52:42.487Z</lastmod>
     
   </url>
   
@@ -1762,13 +1776,6 @@
     <loc>https://charon-cheung.github.io/2019/06/14/C++/Boost/Boost%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/</loc>
     
     <lastmod>2020-03-05T04:04:21.963Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/05/30/SLAM%E5%B7%A5%E5%85%B7/Eigen/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%BA%93Eigen%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
-    
-    <lastmod>2020-03-05T04:02:58.108Z</lastmod>
     
   </url>
   
