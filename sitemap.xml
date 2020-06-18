@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2019/02/02/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/ROS%E6%A0%A1%E6%AD%A3%E6%91%84%E5%83%8F%E5%A4%B4/</loc>
+    
+    <lastmod>2020-06-18T08:42:42.635Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2020/06/17/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%B8%83)%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%905%20%20scan%20match/</loc>
     
     <lastmod>2020-06-17T14:11:56.072Z</lastmod>
@@ -1188,13 +1195,6 @@
     <loc>https://charon-cheung.github.io/2018/11/23/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/cgi%E5%88%87%E6%8D%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E5%9C%B0%E5%9B%BE/</loc>
     
     <lastmod>2020-03-07T09:32:22.368Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/02/02/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/ROS%E6%A0%A1%E6%AD%A3%E6%91%84%E5%83%8F%E5%A4%B4/</loc>
-    
-    <lastmod>2020-03-07T09:16:35.657Z</lastmod>
     
   </url>
   
