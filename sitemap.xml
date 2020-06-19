@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2020/06/19/%E6%BF%80%E5%85%89SLAM/gmapping/OpenMP%E5%8A%A0%E9%80%9Fgmapping/</loc>
+    
+    <lastmod>2020-06-19T14:33:51.616Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/09/23/C++/C++%20%20%E5%9F%BA%E7%A1%80/C++%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-06-19T14:31:51.573Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2019/09/27/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%BA%8C)%20slam_gmapping%E8%8A%82%E7%82%B9%E5%92%8C%E6%89%80%E6%9C%89%E5%8F%82%E6%95%B0/</loc>
     
     <lastmod>2020-06-18T13:33:43.825Z</lastmod>
@@ -1664,13 +1678,6 @@
     <loc>https://charon-cheung.github.io/2019/04/24/C++/C++%20%20%E6%A8%A1%E6%9D%BF%E4%B8%8ESTL/%E6%A8%A1%E6%9D%BF%E7%B1%BB%E5%92%8C%E6%A8%A1%E6%9D%BF%E5%87%BD%E6%95%B0/</loc>
     
     <lastmod>2020-03-05T04:06:00.965Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/09/23/C++/C++%20%20%E5%9F%BA%E7%A1%80/C++%E4%B8%AD%E7%9A%84%E6%97%B6%E9%97%B4%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%87%BD%E6%95%B0/</loc>
-    
-    <lastmod>2020-03-05T04:05:37.814Z</lastmod>
     
   </url>
   
