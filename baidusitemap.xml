@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://charon-cheung.github.io/2020/06/29/%E8%A7%86%E8%A7%89SLAM/%E6%A0%87%E5%AE%9AD435i%E5%86%85%E5%A4%96%E5%8F%82%E6%95%B0/</loc>
-    <lastmod>2020-06-29</lastmod>
+    <loc>https://charon-cheung.github.io/2020/06/30/23794/</loc>
+    <lastmod>2020-06-30</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/06/29/%E8%A7%86%E8%A7%89SLAM/%E6%A0%87%E5%AE%9AD435i%E7%9A%84IMU/</loc>
+    <lastmod>2020-06-29</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/06/29/%E8%A7%86%E8%A7%89SLAM/%E6%A0%87%E5%AE%9AD435i%E7%9A%84%E5%A4%96%E5%8F%82%E6%95%B0/</loc>
     <lastmod>2020-06-29</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/09/17/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/catkin_make%E5%8F%8Acmakelists%E5%88%86%E6%9E%90/</loc>
