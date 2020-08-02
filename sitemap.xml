@@ -4,7 +4,28 @@
   <url>
     <loc>https://charon-cheung.github.io/2020/08/01/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B8%89)%20MapBuilder%E7%B1%BB/</loc>
     
-    <lastmod>2020-08-01T12:57:40.406Z</lastmod>
+    <lastmod>2020-08-02T02:29:08.711Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/08/01/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%BA%8C)%20Node%E7%9A%84AddTrajectory%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-08-02T02:26:58.071Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/08/01/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B8%80)%20%E4%BB%8Enode_main.cc%E5%BC%80%E5%A7%8B/</loc>
+    
+    <lastmod>2020-08-02T02:17:08.852Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/08/02/(%E4%BA%8C)%20Node/</loc>
+    
+    <lastmod>2020-08-02T01:53:37.785Z</lastmod>
     
   </url>
   
@@ -51,23 +72,9 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/08/01/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%BA%8C)%20Node%E7%9A%84AddTrajectory%E5%87%BD%E6%95%B0/</loc>
-    
-    <lastmod>2020-08-01T12:35:39.227Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2020/07/13/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E5%85%AD)%20pose_graph.lua%20%E5%8F%82%E6%95%B0/</loc>
     
     <lastmod>2020-08-01T11:56:33.065Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/08/01/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B8%80)%20%E4%BB%8Enode_main.cc%E5%BC%80%E5%A7%8B/</loc>
-    
-    <lastmod>2020-08-01T11:45:21.246Z</lastmod>
     
   </url>
   
