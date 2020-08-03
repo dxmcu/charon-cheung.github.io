@@ -2,12 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://charon-cheung.github.io/2020/08/01/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B8%89)%20MapBuilder%E7%B1%BB/</loc>
+    <lastmod>2020-08-03</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/08/01/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B8%80)%20%E4%BB%8Enode_main.cc%E5%BC%80%E5%A7%8B/</loc>
+    <lastmod>2020-08-03</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/07/02/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E5%9B%9B)%20%E7%BA%AF%E5%AE%9A%E4%BD%8D%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/08/01/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%BA%8C)%20Node%E7%9A%84AddTrajectory%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2020-08-02</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/08/01/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B8%80)%20%E4%BB%8Enode_main.cc%E5%BC%80%E5%A7%8B/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/08/02/(%E4%BA%8C)%20Node/</loc>
@@ -17,9 +20,6 @@
     <lastmod>2020-08-01</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/07/06/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E4%B8%89)%20%E5%B8%B8%E7%94%A8%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2020-08-01</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/07/02/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E5%9B%9B)%20%E7%BA%AF%E5%AE%9A%E4%BD%8D%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2020-08-01</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/07/11/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E4%BA%94)%20trajectory_builder_2d%E5%8F%82%E6%95%B0/</loc>
