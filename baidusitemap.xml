@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://charon-cheung.github.io/2020/03/19/%E6%B1%82%E8%81%8C%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2020-08-19</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/07/20/%E8%81%8C%E5%9C%BA%E7%BB%8F%E9%AA%8C/</loc>
+    <lastmod>2020-08-19</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E7%A0%94%E7%A9%B6%E8%9E%8D%E5%90%88Kinect+Laser%E7%9A%84%E4%BA%8C%E7%BB%B4scan%E5%AF%BC%E8%88%AA/</loc>
+    <lastmod>2020-08-19</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/02/23/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E6%94%B6%E9%9B%86/</loc>
+    <lastmod>2020-08-19</lastmod>
+  </url>  <url>
     <loc>https://charon-cheung.github.io/2020/07/11/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E4%BA%94)%20trajectory_builder_2d%E5%8F%82%E6%95%B0/</loc>
     <lastmod>2020-08-08</lastmod>
   </url>  <url>
@@ -14,9 +26,6 @@
     <lastmod>2020-08-08</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/08/04/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B9%9D)%20Voxel%20Filter%E5%92%8CAdaptive%20Voxel%20Filter/</loc>
-    <lastmod>2020-08-07</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/07/20/%E7%AE%A1%E7%90%86%E7%BB%8F%E9%AA%8C/</loc>
     <lastmod>2020-08-07</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/08/04/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E5%9B%9B)%20LaunchSubscribers%E6%B5%81%E7%A8%8B/</loc>
@@ -63,9 +72,6 @@
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/05/%E6%BF%80%E5%85%89SLAM/%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E7%9A%84%E9%85%8D%E7%BD%AE%E5%92%8CROS%E6%B6%88%E6%81%AF/</loc>
     <lastmod>2020-07-27</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/02/23/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E6%94%B6%E9%9B%86/</loc>
-    <lastmod>2020-07-26</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/09/17/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/catkin_make%E5%8F%8Acmakelists%E5%88%86%E6%9E%90/</loc>
     <lastmod>2020-07-25</lastmod>
@@ -230,9 +236,6 @@
     <lastmod>2020-06-10</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/11/07/%E6%BF%80%E5%85%89SLAM/%E6%BF%80%E5%85%89SLAM%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E5%9F%BA%E4%BA%8EKinect%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/</loc>
     <lastmod>2020-06-09</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/12/15/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%AE%89%E8%A3%85%E5%92%8C%E7%BC%96%E8%AF%91%E7%AD%89%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</loc>
