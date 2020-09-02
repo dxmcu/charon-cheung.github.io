@@ -2,9 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2020/04/08/%E6%BF%80%E5%85%89SLAM/PL-ICP/PL-ICP%E7%AE%97%E6%B3%95/</loc>
+    
+    <lastmod>2020-09-02T03:33:17.102Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/04/09/%E6%BF%80%E5%85%89SLAM/PL-ICP/csm%E5%8C%85%E7%9A%84%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB%20(%E4%B8%80)/</loc>
+    
+    <lastmod>2020-09-02T03:33:14.902Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/09/15/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/ROS%E5%9C%B0%E5%9B%BE%E8%AF%A6%E8%A7%A3/</loc>
+    
+    <lastmod>2020-09-02T02:59:19.394Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/05/11/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E5%9B%9B%EF%BC%89%E4%BB%A3%E4%BB%B7%E5%9C%B0%E5%9B%BE/</loc>
+    
+    <lastmod>2020-09-02T02:41:21.448Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/10/17/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BB%BA%E5%9B%BE%E7%9A%84%E6%8A%80%E5%B7%A7/</loc>
+    
+    <lastmod>2020-09-02T02:37:31.626Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/07/26/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%BA%8C%EF%BC%89%E9%87%8C%E7%A8%8B%E8%AE%A1/</loc>
+    
+    <lastmod>2020-09-02T02:32:00.530Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/03/02/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8AprilTag%E8%BF%9B%E8%A1%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
+    
+    <lastmod>2020-09-02T02:04:23.119Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/08/26/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%BA%94%EF%BC%89%20%E5%85%A8%E5%B1%80%E5%92%8C%E5%B1%80%E9%83%A8%E7%9A%84%E4%BB%A3%E4%BB%B7%E5%9C%B0%E5%9B%BE/</loc>
+    
+    <lastmod>2020-09-02T01:55:37.569Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E7%A0%94%E7%A9%B6%E8%9E%8D%E5%90%88Kinect+Laser%E7%9A%84%E4%BA%8C%E7%BB%B4scan%E5%AF%BC%E8%88%AA/</loc>
+    
+    <lastmod>2020-09-01T14:32:13.723Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/03/09/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/urdf%E5%BB%BA%E6%A8%A1/</loc>
+    
+    <lastmod>2020-09-01T14:05:19.194Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/02/15/%E8%A7%86%E8%A7%89SLAM/Kinect%20v1%E6%91%84%E5%83%8F%E5%A4%B4%E7%9A%84%E6%A0%87%E5%AE%9A/</loc>
+    
+    <lastmod>2020-09-01T14:03:41.440Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/03/19/%E6%B1%82%E8%81%8C%E6%84%9F%E6%82%9F/</loc>
+    
+    <lastmod>2020-09-01T10:43:22.321Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/03/09/PCL%E7%82%B9%E4%BA%91/ROS%E4%B8%AD%E7%9A%84%E5%87%A0%E4%B8%AA%E7%82%B9%E4%BA%91%E5%B7%A5%E5%85%B7/</loc>
+    
+    <lastmod>2020-09-01T10:42:03.166Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/07/13/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E5%85%AD)%20pose_graph.lua%20%E5%8F%82%E6%95%B0/</loc>
+    
+    <lastmod>2020-08-31T13:40:21.253Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/07/11/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E4%BA%94)%20trajectory_builder_2d%E5%8F%82%E6%95%B0/</loc>
+    
+    <lastmod>2020-08-31T13:38:29.550Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2019/02/19/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8AprilTag%E8%BF%9B%E8%A1%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
     
-    <lastmod>2020-08-31T03:14:48.343Z</lastmod>
+    <lastmod>2020-08-31T03:24:49.346Z</lastmod>
     
   </url>
   
@@ -135,20 +240,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2019/09/15/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/ROS%E5%9C%B0%E5%9B%BE%E8%AF%A6%E8%A7%A3/</loc>
-    
-    <lastmod>2020-08-31T02:53:52.710Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/03/02/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8AprilTag%E8%BF%9B%E8%A1%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%BA%8C%EF%BC%89/</loc>
-    
-    <lastmod>2020-08-31T02:53:48.547Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2019/05/21/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8%E7%BD%91%E9%A1%B5%E7%AB%AF%E5%AF%BC%E8%88%AA%E7%9A%84%E6%B5%81%E7%A8%8B/</loc>
     
     <lastmod>2020-08-31T02:53:45.618Z</lastmod>
@@ -163,23 +254,9 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/03/19/%E6%B1%82%E8%81%8C%E6%84%9F%E6%82%9F/</loc>
-    
-    <lastmod>2020-08-31T02:53:15.490Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2020/07/20/%E8%81%8C%E5%9C%BA%E7%BB%8F%E9%AA%8C/</loc>
     
     <lastmod>2020-08-31T02:52:45.365Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E7%A0%94%E7%A9%B6%E8%9E%8D%E5%90%88Kinect+Laser%E7%9A%84%E4%BA%8C%E7%BB%B4scan%E5%AF%BC%E8%88%AA/</loc>
-    
-    <lastmod>2020-08-31T02:34:08.555Z</lastmod>
     
   </url>
   
@@ -541,13 +618,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/07/11/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E4%BA%94)%20trajectory_builder_2d%E5%8F%82%E6%95%B0/</loc>
-    
-    <lastmod>2020-08-23T09:34:01.163Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2020/08/22/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E5%85%AD)%201.%20%E6%8F%92%E5%85%A5%E5%AD%90%E5%9B%BE/</loc>
     
     <lastmod>2020-08-23T09:27:56.487Z</lastmod>
@@ -660,13 +730,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/07/13/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E5%85%AD)%20pose_graph.lua%20%E5%8F%82%E6%95%B0/</loc>
-    
-    <lastmod>2020-08-01T11:56:33.065Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2020/06/16/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/%E5%B0%8F%E5%BC%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%AF%B4%E6%98%8E/</loc>
     
     <lastmod>2020-07-27T14:02:04.717Z</lastmod>
@@ -730,13 +793,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2019/07/26/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%BA%8C%EF%BC%89%E9%87%8C%E7%A8%8B%E8%AE%A1/</loc>
-    
-    <lastmod>2020-07-16T02:26:38.443Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2020/07/11/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/%E9%85%8D%E7%BD%AE%E5%B0%8F%E5%BC%BA%E7%9A%84vncserver/</loc>
     
     <lastmod>2020-07-11T04:36:02.069Z</lastmod>
@@ -754,13 +810,6 @@
     <loc>https://charon-cheung.github.io/2019/05/13/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%89%EF%BC%89find_package/</loc>
     
     <lastmod>2020-07-05T01:53:51.023Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/03/09/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/urdf%E5%BB%BA%E6%A8%A1/</loc>
-    
-    <lastmod>2020-07-03T12:47:12.217Z</lastmod>
     
   </url>
   
@@ -919,13 +968,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/03/09/PCL%E7%82%B9%E4%BA%91/ROS%E4%B8%AD%E7%9A%84%E5%87%A0%E4%B8%AA%E7%82%B9%E4%BA%91%E5%B7%A5%E5%85%B7/</loc>
-    
-    <lastmod>2020-06-11T11:15:47.960Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2020/03/04/PCL%E7%82%B9%E4%BA%91/(%E4%BA%8C)%20ICP%E7%AE%97%E6%B3%95/</loc>
     
     <lastmod>2020-06-11T11:15:44.059Z</lastmod>
@@ -971,13 +1013,6 @@
     <loc>https://charon-cheung.github.io/2019/08/26/cmake%20qmake/cmake%E6%95%99%E7%A8%8B%EF%BC%88%E5%9B%9B%EF%BC%89ROS%E4%B8%AD%E7%9A%84catkin_make/</loc>
     
     <lastmod>2020-06-07T01:27:40.893Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/10/17/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BB%BA%E5%9B%BE%E7%9A%84%E6%8A%80%E5%B7%A7/</loc>
-    
-    <lastmod>2020-05-31T08:43:21.964Z</lastmod>
     
   </url>
   
@@ -1034,20 +1069,6 @@
     <loc>https://charon-cheung.github.io/2020/05/13/Matlab/Matlab%E5%8A%A0%E8%BD%BD%E6%A0%85%E6%A0%BC%E5%9C%B0%E5%9B%BE/</loc>
     
     <lastmod>2020-05-14T12:53:26.153Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/05/11/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E5%9B%9B%EF%BC%89%E4%BB%A3%E4%BB%B7%E5%9C%B0%E5%9B%BE/</loc>
-    
-    <lastmod>2020-05-13T13:10:41.746Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/08/26/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%BA%94%EF%BC%89%20%E5%85%A8%E5%B1%80%E5%92%8C%E5%B1%80%E9%83%A8%E7%9A%84%E4%BB%A3%E4%BB%B7%E5%9C%B0%E5%9B%BE/</loc>
-    
-    <lastmod>2020-05-13T12:58:22.010Z</lastmod>
     
   </url>
   
@@ -1129,13 +1150,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/04/08/%E6%BF%80%E5%85%89SLAM/PL-ICP/PL-ICP%E7%AE%97%E6%B3%95/</loc>
-    
-    <lastmod>2020-04-27T14:11:46.227Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2020/04/25/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/rviz%E9%87%8C%E6%9F%A5%E7%9C%8Bnav_msgs%20Path/</loc>
     
     <lastmod>2020-04-25T13:39:03.233Z</lastmod>
@@ -1146,13 +1160,6 @@
     <loc>https://charon-cheung.github.io/2019/04/20/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E4%BD%BF%E7%94%A8ROS%20Service(%E4%BA%8C)/</loc>
     
     <lastmod>2020-04-25T13:37:25.924Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/04/09/%E6%BF%80%E5%85%89SLAM/PL-ICP/csm%E5%8C%85%E7%9A%84%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB%20(%E4%B8%80)/</loc>
-    
-    <lastmod>2020-04-23T14:13:42.360Z</lastmod>
     
   </url>
   
@@ -1402,13 +1409,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2019/09/27/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%B8%89%EF%BC%89slam_gmapping%E8%8A%82%E7%82%B9/</loc>
-    
-    <lastmod>2020-03-21T01:32:34.721Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2020/03/16/C++/C++%20%20%E6%A8%A1%E6%9D%BF%E4%B8%8ESTL/STL%E6%80%BB%E7%BB%93/</loc>
     
     <lastmod>2020-03-17T13:00:33.383Z</lastmod>
@@ -1559,13 +1559,6 @@
     <loc>https://charon-cheung.github.io/2020/02/12/C++/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/union%E5%92%8C%E5%A4%A7%E7%AB%AF%E5%B0%8F%E7%AB%AF/</loc>
     
     <lastmod>2020-03-13T02:26:44.242Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/02/15/%E8%A7%86%E8%A7%89SLAM/Kinect%20v1%E6%91%84%E5%83%8F%E5%A4%B4%E7%9A%84%E6%A0%87%E5%AE%9A/</loc>
-    
-    <lastmod>2020-03-12T12:37:20.188Z</lastmod>
     
   </url>
   
