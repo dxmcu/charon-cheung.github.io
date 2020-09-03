@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://charon-cheung.github.io/2020/09/03/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E5%90%91%E4%BB%A3%E4%BB%B7%E5%9C%B0%E5%9B%BE%E6%B7%BB%E5%8A%A0%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84%E5%B1%82/</loc>
+    <lastmod>2020-09-03</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E8%9E%8D%E5%90%88Realsense+Laser%E7%9A%84%E4%BA%8C%E7%BB%B4scan%E5%AF%BC%E8%88%AA/</loc>
+    <lastmod>2020-09-03</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/01/16/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E5%8F%91%E5%B8%83%E5%92%8C%E8%AE%A2%E9%98%85/</loc>
+    <lastmod>2020-09-03</lastmod>
+  </url>  <url>
     <loc>https://charon-cheung.github.io/2020/04/08/%E6%BF%80%E5%85%89SLAM/PL-ICP/PL-ICP%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2020-09-02</lastmod>
   </url>  <url>
@@ -24,9 +33,6 @@
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/26/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%BA%94%EF%BC%89%20%E5%85%A8%E5%B1%80%E5%92%8C%E5%B1%80%E9%83%A8%E7%9A%84%E4%BB%A3%E4%BB%B7%E5%9C%B0%E5%9B%BE/</loc>
     <lastmod>2020-09-02</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/06/01/%E8%A7%86%E8%A7%89SLAM/%E7%A0%94%E7%A9%B6%E8%9E%8D%E5%90%88Kinect+Laser%E7%9A%84%E4%BA%8C%E7%BB%B4scan%E5%AF%BC%E8%88%AA/</loc>
-    <lastmod>2020-09-01</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/03/09/ROS/ROS%E6%9C%BA%E5%99%A8%E4%BA%BA/urdf%E5%BB%BA%E6%A8%A1/</loc>
     <lastmod>2020-09-01</lastmod>
@@ -424,9 +430,6 @@
     <loc>https://charon-cheung.github.io/2020/02/13/%E8%A7%86%E8%A7%89SLAM/Kinect%20v1%E6%91%84%E5%83%8F%E5%A4%B4%E7%9A%84%E9%85%8D%E7%BD%AE%E8%B0%83%E8%AF%95/</loc>
     <lastmod>2020-06-11</lastmod>
   </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/11/07/%E6%88%91%E7%9A%84%E5%AF%BC%E8%88%AA%E7%A8%8B%E5%BA%8F%E7%9A%84%E7%96%91%E9%9A%BE%E9%97%AE%E9%A2%98/nav_manage%E8%BF%9B%E7%A8%8B%E8%BF%90%E8%A1%8C%E4%B8%AD%E9%9A%8F%E6%9C%BA%E9%80%80%E5%87%BA/</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>  <url>
     <loc>https://charon-cheung.github.io/2018/12/15/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%AE%89%E8%A3%85%E5%92%8C%E7%BC%96%E8%AF%91%E7%AD%89%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2020-06-08</lastmod>
   </url>  <url>
@@ -485,9 +488,6 @@
     <lastmod>2020-04-29</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/11/06/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F%E5%92%8Clog4cxx/</loc>
-    <lastmod>2020-04-29</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/01/16/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E5%8F%91%E5%B8%83%E5%92%8C%E8%AE%A2%E9%98%85/</loc>
     <lastmod>2020-04-29</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/03/20/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/%E4%BD%BF%E7%94%A8ROS%20Service(%E4%B8%80)/</loc>
@@ -906,9 +906,6 @@
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/05/29/Linux%E5%9F%BA%E7%A1%80/Linux%E9%97%AE%E9%A2%98%E7%A7%AF%E7%B4%AF/</loc>
     <lastmod>2019-11-13</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/11/07/%E6%88%91%E7%9A%84%E5%AF%BC%E8%88%AA%E7%A8%8B%E5%BA%8F%E7%9A%84%E7%96%91%E9%9A%BE%E9%97%AE%E9%A2%98/getifaddr()%E6%8A%A5%E9%94%99%E5%92%8C%E7%BC%BA%E5%B0%91%E6%97%A5%E5%BF%97%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%AD%89%E9%94%99%E8%AF%AF/</loc>
-    <lastmod>2019-11-07</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/09/18/Valgrind%E5%92%8C%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/%E5%87%A0%E7%A7%8D%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2%E7%9A%84%E6%83%85%E5%86%B5/</loc>
     <lastmod>2019-10-17</lastmod>
