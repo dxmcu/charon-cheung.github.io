@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2020/08/07/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B8%83)%20ImuTracker/</loc>
+    
+    <lastmod>2020-09-09T13:59:09.358Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/07/13/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E5%85%AD)%20pose_graph.lua%20%E5%8F%82%E6%95%B0/</loc>
+    
+    <lastmod>2020-09-09T13:46:07.821Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/07/11/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E4%BA%94)%20trajectory_builder_2d%E5%8F%82%E6%95%B0/</loc>
+    
+    <lastmod>2020-09-09T13:37:54.316Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/08/05/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E5%85%AB)%20%E4%BD%8D%E5%A7%BF%E5%A4%96%E6%8F%92%E5%99%A8%20PoseExtrapolator/</loc>
+    
+    <lastmod>2020-09-09T13:20:01.177Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/08/04/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B9%9D)%20Voxel%20Filter%E5%92%8CAdaptive%20Voxel%20Filter/</loc>
+    
+    <lastmod>2020-09-09T12:05:57.182Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/04/08/%E6%BF%80%E5%85%89SLAM/ICP/ICP%E7%B3%BB%E5%88%97%E7%AE%97%E6%B3%95/</loc>
+    
+    <lastmod>2020-09-08T13:21:35.911Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2020/09/08/C++/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%A9%B6%E8%99%9A%E5%87%BD%E6%95%B0%20(%E4%BA%8C)%20/</loc>
     
     <lastmod>2020-09-08T09:19:16.600Z</lastmod>
@@ -12,13 +54,6 @@
     <loc>https://charon-cheung.github.io/2018/07/21/C++/C++%20%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%A9%B6%E8%99%9A%E5%87%BD%E6%95%B0/</loc>
     
     <lastmod>2020-09-08T09:08:51.374Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/07/11/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E4%BA%94)%20trajectory_builder_2d%E5%8F%82%E6%95%B0/</loc>
-    
-    <lastmod>2020-09-08T02:49:47.411Z</lastmod>
     
   </url>
   
@@ -75,13 +110,6 @@
     <loc>https://charon-cheung.github.io/2019/11/07/%E6%BF%80%E5%85%89SLAM/%E6%BF%80%E5%85%89SLAM%E7%AE%80%E4%BB%8B/</loc>
     
     <lastmod>2020-09-04T03:08:33.762Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/04/08/%E6%BF%80%E5%85%89SLAM/ICP/ICP%E7%B3%BB%E5%88%97%E7%AE%97%E6%B3%95/</loc>
-    
-    <lastmod>2020-09-04T02:53:37.370Z</lastmod>
     
   </url>
   
@@ -222,13 +250,6 @@
     <loc>https://charon-cheung.github.io/2020/03/09/PCL%E7%82%B9%E4%BA%91/ROS%E4%B8%AD%E7%9A%84%E5%87%A0%E4%B8%AA%E7%82%B9%E4%BA%91%E5%B7%A5%E5%85%B7/</loc>
     
     <lastmod>2020-09-01T10:42:03.166Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/07/13/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E5%85%AD)%20pose_graph.lua%20%E5%8F%82%E6%95%B0/</loc>
-    
-    <lastmod>2020-08-31T13:40:21.253Z</lastmod>
     
   </url>
   
@@ -726,27 +747,6 @@
     <loc>https://charon-cheung.github.io/2020/02/23/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E6%94%B6%E9%9B%86/</loc>
     
     <lastmod>2020-08-19T01:41:16.458Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/08/05/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E5%85%AB)%20%E4%BD%8D%E5%A7%BF%E5%A4%96%E6%8F%92%E5%99%A8%20PoseExtrapolator/</loc>
-    
-    <lastmod>2020-08-08T02:48:48.850Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/08/07/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B8%83)%20ImuTracker/</loc>
-    
-    <lastmod>2020-08-08T00:46:41.787Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/08/04/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E4%B9%9D)%20Voxel%20Filter%E5%92%8CAdaptive%20Voxel%20Filter/</loc>
-    
-    <lastmod>2020-08-07T12:34:51.413Z</lastmod>
     
   </url>
   
