@@ -2,6 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://charon-cheung.github.io/2020/09/13/%E6%BF%80%E5%85%89SLAM/%E5%9B%BE%E4%BC%98%E5%8C%96/</loc>
+    
+    <lastmod>2020-09-13T03:18:27.381Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2019/12/19/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%B8%80)%20%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/</loc>
+    
+    <lastmod>2020-09-13T03:16:29.647Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/03/18/%E6%BF%80%E5%85%89SLAM/%E9%9B%B7%E8%BE%BE%E7%9A%84%E8%AE%BE%E5%A4%87%E5%8F%82%E6%95%B0/</loc>
+    
+    <lastmod>2020-09-13T02:56:36.428Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/06/03/%E8%A7%86%E8%A7%89SLAM/Kinect%E6%B7%B1%E5%BA%A6%E5%9B%BE/</loc>
+    
+    <lastmod>2020-09-13T02:55:28.461Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/03/31/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90(%E4%BA%94)%E6%B5%8B%E9%87%8F%E6%A8%A1%E5%9E%8B/</loc>
+    
+    <lastmod>2020-09-13T02:39:31.551Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/09/13/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/%E5%B1%80%E9%83%A8%E8%B7%AF%E5%BE%84/</loc>
+    
+    <lastmod>2020-09-13T02:31:45.453Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/04/29/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/Dijkstra%E7%AE%97%E6%B3%95/</loc>
+    
+    <lastmod>2020-09-13T02:27:45.584Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/04/27/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/A%E6%98%9F%E7%AE%97%E6%B3%95/</loc>
+    
+    <lastmod>2020-09-13T02:26:53.131Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://charon-cheung.github.io/2020/07/11/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E4%BA%94)%20trajectory_builder_2d%E5%8F%82%E6%95%B0/</loc>
+    
+    <lastmod>2020-09-12T02:30:55.462Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://charon-cheung.github.io/2020/08/05/%E6%BF%80%E5%85%89SLAM/Cartographer/%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/(%E5%85%AB)%20%E4%BD%8D%E5%A7%BF%E5%A4%96%E6%8F%92%E5%99%A8%20PoseExtrapolator/</loc>
     
     <lastmod>2020-09-11T12:41:09.622Z</lastmod>
@@ -12,13 +75,6 @@
     <loc>https://charon-cheung.github.io/2020/03/13/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E4%BA%8C)%20%E7%BB%BC%E8%BF%B0,%20%E8%AF%9D%E9%A2%98%E5%92%8C%E6%9C%8D%E5%8A%A1/</loc>
     
     <lastmod>2020-09-11T09:08:02.018Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/07/11/%E6%BF%80%E5%85%89SLAM/Cartographer/%E5%8E%9F%E7%90%86%E5%92%8C%E9%85%8D%E7%BD%AE/(%E4%BA%94)%20trajectory_builder_2d%E5%8F%82%E6%95%B0/</loc>
-    
-    <lastmod>2020-09-10T11:00:03.940Z</lastmod>
     
   </url>
   
@@ -93,13 +149,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/04/27/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/A%E6%98%9F%E7%AE%97%E6%B3%95/</loc>
-    
-    <lastmod>2020-09-06T10:41:30.552Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2019/07/26/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%B8%80%EF%BC%89%E9%87%8C%E7%A8%8B%E8%AE%A1/</loc>
     
     <lastmod>2020-09-04T04:07:18.905Z</lastmod>
@@ -124,20 +173,6 @@
     <loc>https://charon-cheung.github.io/2019/11/07/%E6%BF%80%E5%85%89SLAM/%E6%BF%80%E5%85%89SLAM%E7%AE%80%E4%BB%8B/</loc>
     
     <lastmod>2020-09-04T03:08:33.762Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/03/31/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90(%E4%BA%94)%E6%B5%8B%E9%87%8F%E6%A8%A1%E5%9E%8B/</loc>
-    
-    <lastmod>2020-09-04T02:52:06.656Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/03/18/%E6%BF%80%E5%85%89SLAM/%E9%9B%B7%E8%BE%BE%E7%9A%84%E8%AE%BE%E5%A4%87%E5%8F%82%E6%95%B0/</loc>
-    
-    <lastmod>2020-09-04T02:50:57.554Z</lastmod>
     
   </url>
   
@@ -264,13 +299,6 @@
     <loc>https://charon-cheung.github.io/2019/02/19/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E4%BD%BF%E7%94%A8AprilTag%E8%BF%9B%E8%A1%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%B8%80%EF%BC%89/</loc>
     
     <lastmod>2020-08-31T03:24:49.346Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2019/12/19/%E6%BF%80%E5%85%89SLAM/gmapping/(%E4%B8%80)%20%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/</loc>
-    
-    <lastmod>2020-08-31T02:54:28.484Z</lastmod>
     
   </url>
   
@@ -996,13 +1024,6 @@
   </url>
   
   <url>
-    <loc>https://charon-cheung.github.io/2020/06/03/%E8%A7%86%E8%A7%89SLAM/Kinect%E6%B7%B1%E5%BA%A6%E5%9B%BE/</loc>
-    
-    <lastmod>2020-06-12T02:01:56.685Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://charon-cheung.github.io/2020/06/11/PCL%E7%82%B9%E4%BA%91/%E7%82%B9%E4%BA%91%E6%BB%A4%E6%B3%A2/</loc>
     
     <lastmod>2020-06-12T01:45:20.515Z</lastmod>
@@ -1132,13 +1153,6 @@
     <loc>https://charon-cheung.github.io/2019/10/23/ROS/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA%EF%BC%88%E4%B8%83%EF%BC%89%E5%B1%80%E9%83%A8%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%20%E2%80%94%20%E7%AE%97%E6%B3%95%20dwa_local_planner/</loc>
     
     <lastmod>2020-05-11T11:20:27.484Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://charon-cheung.github.io/2020/04/29/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/Dijkstra%E7%AE%97%E6%B3%95/</loc>
-    
-    <lastmod>2020-05-01T12:12:33.291Z</lastmod>
     
   </url>
   
