@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://charon-cheung.github.io/2020/11/21/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/move_base%E5%88%86%E6%9E%90/%E5%85%A8%E5%B1%80%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92(%E4%BA%8C)%20%20makePlan/</loc>
+    <lastmod>2020-11-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/05/01/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/move_base%E5%88%86%E6%9E%90/%E5%85%A8%E5%B1%80%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%20-%20global_planner/</loc>
+    <lastmod>2020-11-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/11/15/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/%E5%8D%95%E9%80%9A%E9%81%93/</loc>
+    <lastmod>2020-11-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2020/11/21/ROS/rviz%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6/%E5%B8%B8%E7%94%A8%E7%9F%A5%E8%AF%86/</loc>
+    <lastmod>2020-11-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2018/12/25/ROS/rviz%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6/rviz%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB(%E4%B8%80)/</loc>
+    <lastmod>2020-11-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2019/05/29/Linux%E5%9F%BA%E7%A1%80/Linux%E9%97%AE%E9%A2%98%E7%A7%AF%E7%B4%AF/</loc>
+    <lastmod>2020-11-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2018/09/17/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/catkin_make%E5%8F%8Acmakelists%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2020-11-21</lastmod>
+  </url>  <url>
+    <loc>https://charon-cheung.github.io/2018/12/15/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%AE%89%E8%A3%85%E5%92%8C%E7%BC%96%E8%AF%91%E7%AD%89%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2020-11-21</lastmod>
+  </url>  <url>
     <loc>https://charon-cheung.github.io/2020/11/16/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E7%BC%96%E7%A8%8B%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2020-11-19</lastmod>
   </url>  <url>
@@ -31,9 +55,6 @@
     <loc>https://charon-cheung.github.io/2020/11/18/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/TEB%E7%AE%97%E6%B3%95/(%E5%9B%9B)%20configureBackupModes1%EF%BC%9A%20goal_idx%E5%92%8Ctransformed_plan%E7%9A%84%E5%A4%84%E7%90%86/</loc>
     <lastmod>2020-11-18</lastmod>
   </url>  <url>
-    <loc>https://charon-cheung.github.io/2019/05/29/Linux%E5%9F%BA%E7%A1%80/Linux%E9%97%AE%E9%A2%98%E7%A7%AF%E7%B4%AF/</loc>
-    <lastmod>2020-11-18</lastmod>
-  </url>  <url>
     <loc>https://charon-cheung.github.io/2020/11/15/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/move_base%E5%88%86%E6%9E%90/%E6%81%A2%E5%A4%8D%E8%A1%8C%E4%B8%BA/</loc>
     <lastmod>2020-11-17</lastmod>
   </url>  <url>
@@ -47,9 +68,6 @@
     <lastmod>2020-11-16</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/10/18/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/stage%E7%9A%84%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2020-11-16</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2018/09/17/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/catkin_make%E5%8F%8Acmakelists%E5%88%86%E6%9E%90/</loc>
     <lastmod>2020-11-16</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2020/11/15/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/move_base%E5%88%86%E6%9E%90/%E5%85%AC%E5%8F%B8%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</loc>
@@ -85,9 +103,6 @@
     <loc>https://charon-cheung.github.io/2020/11/15/Linux%E5%9F%BA%E7%A1%80/swap%E5%86%85%E5%AD%98/</loc>
     <lastmod>2020-11-15</lastmod>
   </url>  <url>
-    <loc>https://charon-cheung.github.io/2018/12/15/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/ROS%E5%AE%89%E8%A3%85%E5%92%8C%E7%BC%96%E8%AF%91%E7%AD%89%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2020-11-15</lastmod>
-  </url>  <url>
     <loc>https://charon-cheung.github.io/2020/11/15/%E6%BF%80%E5%85%89SLAM/amcl%E5%92%8C%E7%B2%92%E5%AD%90%E6%BB%A4%E6%B3%A2/%E8%87%AA%E5%8A%A8%E5%85%A8%E5%B1%80%E5%AE%9A%E4%BD%8D/</loc>
     <lastmod>2020-11-15</lastmod>
   </url>  <url>
@@ -116,9 +131,6 @@
     <lastmod>2020-11-15</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/08/26/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/move_base%E5%88%86%E6%9E%90/%E5%85%A8%E5%B1%80%E5%92%8C%E5%B1%80%E9%83%A8%E7%9A%84%E4%BB%A3%E4%BB%B7%E5%9C%B0%E5%9B%BE/</loc>
-    <lastmod>2020-11-15</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2020/05/01/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/move_base%E5%88%86%E6%9E%90/%E5%85%A8%E5%B1%80%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%20-%20global_planner/</loc>
     <lastmod>2020-11-15</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2019/10/23/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/move_base%E5%88%86%E6%9E%90/%E5%B1%80%E9%83%A8%E8%B7%AF%E5%BE%84%E7%AE%97%E6%B3%95%20dwa_local_planner/</loc>
@@ -950,9 +962,6 @@
     <lastmod>2020-03-05</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/12/15/ROS/ROS%20Kinetic%E7%9F%A5%E8%AF%86/rosparam%E4%B8%8E%E5%8F%82%E6%95%B0%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2020-03-05</lastmod>
-  </url>  <url>
-    <loc>https://charon-cheung.github.io/2018/12/25/ROS/rviz%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6/rviz%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB(%E4%B8%80)/</loc>
     <lastmod>2020-03-05</lastmod>
   </url>  <url>
     <loc>https://charon-cheung.github.io/2018/12/24/ROS/rviz%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6/%E4%BD%BF%E7%94%A8Qt%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91rviz(%E4%BA%8C)%20rviz%E7%9A%84%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/</loc>
